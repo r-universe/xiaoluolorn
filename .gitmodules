@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PaddleOCR"]
+	path = PaddleOCR
+	url = https://github.com/xiaoluolorn/paddleocr
 [submodule "openaiRtools"]
 	path = openaiRtools
 	url = https://github.com/xiaoluolorn/openairtools
